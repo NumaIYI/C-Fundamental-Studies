@@ -1,0 +1,19 @@
+Galatasaray 10 3
+Fenerbahçe 10 2
+Başakşehir 9 3
+Adana Demirspor 7 6
+Trabzonspor 7 5
+Konyaspor 6 7
+Beşiktaş 6 5
+Kayserispor 7 2
+Alanyaspor 5 6
+Giresunspor 5 4
+Gaziantep FK 4 5
+Fatih Karagümrük 4 4
+MKE Ankaragücü 10 4
+Antalyaspor 5 1
+Kasımpaşa 4 3
+Hatayspor 4 3
+Sivasspor 3 5
+İstanbulspor 3 2
+Ümraniyespor 2 4
